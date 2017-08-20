@@ -1,4 +1,4 @@
-# `testing-techinques-talk`
+# `getting-started-testing-talk`
 
 ## Outline
 
