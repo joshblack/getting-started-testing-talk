@@ -3,20 +3,13 @@
 ## Outline
 
 - [Project setup](./docs/setup.md)
-- CI Setup
-- Running tests locally
-- BDD-style testing setup
-- Async tests
-- Coverage
-  - What does it output
-  - How to automate in CI with pass/fail criteria
-
-
-Tips & Tricks
-
-- `--no-cache` flag to help when changing transformers for files (for example, changing babel plugins since babel trasnform only run when file has changed)
-- Watch mode
-- Special folders
-  - `__tests__`
-  - `__fixtures__`
-  - `__mocks__`
+- [Running tests](./docs/running-tests.md)
+- [CI Setup](./docs/ci.md)
+- [BDD](./docs/bdd.md)
+- [Assertions](./docs/assertions.md)
+- [Mocks](./docs/mocks.md)
+- [Async tests](./docs/async.md)
+- Ideas for follow-up talks:
+  - Creating code that is easier to test
+  - React-specific testing techniques
+  - E2E tests with Selenium, wrappers over Selenium, etc.
