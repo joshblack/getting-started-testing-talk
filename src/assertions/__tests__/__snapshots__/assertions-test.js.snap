@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`assertions helpful methods #toMatchSnapshot should work for structural-testing 1`] = `
+Object {
+  "foo": "bar",
+}
+`;
